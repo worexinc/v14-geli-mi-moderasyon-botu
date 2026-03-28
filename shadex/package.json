@@ -1,0 +1,13 @@
+{
+  "name": "shadex-worex-modbot",
+  "version": "1.0.0",
+  "description": "Shadex And Worex INC — Moderasyon Botu | Geliştirici: Cengizhan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}

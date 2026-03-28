@@ -1,0 +1,9 @@
+{
+  "token": "BURAYA_BOT_TOKENINI_YAZ",
+  "clientId": "BURAYA_BOT_CLIENT_ID",
+  "guildId": "BURAYA_SUNUCU_ID",
+  "staffRoleId": "BURAYA_STAFF_ROL_ID",
+  "logChannelId": "BURAYA_LOG_KANAL_ID",
+  "branding": "Shadex And Worex INC",
+  "developer": "Cengizhan"
+}
